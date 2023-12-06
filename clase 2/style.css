@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: ;
+}
+
+.
+
+.section.itemcarrusel.uno,h1{
+    text-align: center;
+}
+p{padding: 50px;}
+
+
+.contenedorCarrusel{
+    background-color: rgb(92, 198, 207);
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+.itemcarrusel{
+    background-color: rgb(170, 127, 210);
+    position: relative;
+    height: 100%;
+}
+
+section.itemcarrusel.uno{
+    background-color: bisque;
+}
+
+section.itemcarrusel.dos{
+    background-color: rgba(161, 19, 19, 0.405);
+}
+
+section.itemcarrusel.tres{
+    background-color: rgb(130, 238, 186);
+}
+.contenidoCarrusel{
+    height: 100%;
+}
+
+.flechascarrusel{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
